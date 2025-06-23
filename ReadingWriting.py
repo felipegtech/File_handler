@@ -1,6 +1,7 @@
 from pathlib import Path
 import os
 
+'''
 myFiles = ['eurostat.pdf', 
            'titanic.json',
            'eu-ets.csv', 
@@ -23,3 +24,5 @@ for name in myFiles:
 # relative Path -> which is relative to the programs current working directory
 # dot (.) shorthand for "this directory"
 # dot-dot (..) Shorthand for the parent folder
+
+'''
